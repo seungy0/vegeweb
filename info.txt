@@ -1,0 +1,9 @@
+cd vegeweb
+source myvenv/bin/activate
+
+python manage.py runserver 0:80
+
+1. urls.py
+2. views.py
+3. main > templates > index.html
+4. models.py
